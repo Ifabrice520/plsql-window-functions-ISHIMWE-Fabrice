@@ -1,1 +1,0 @@
-# plsql-window-functions-ISHIMWE-Fabrice
